@@ -1,1 +1,0 @@
-# ja-text-editor
